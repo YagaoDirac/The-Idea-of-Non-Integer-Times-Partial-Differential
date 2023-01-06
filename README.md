@@ -1,5 +1,5 @@
-# The-Idea-of-Non-Integer-Times-Differential
-The idea from half time differential and some more.
+# The-Idea-of-Non-Integer-Times-Partial-Differential
+The idea from any non-integer time partial differential and some more.
 
 I thought of non integer times differential before, but I didn't figure out how to do that. 
 <br/>This time, an new approach came to my mind. I believe it's possible, but I don't want to really study it myself, because I'm too busy recently.
