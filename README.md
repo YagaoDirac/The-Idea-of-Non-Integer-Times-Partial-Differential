@@ -20,7 +20,7 @@ With the definition and trigonometric functions, things get interesting:
 <br/>Now we have some basic tools to handle non-integer-time-differential. 
 
 What's really interesting:
-<br/>Fow now, we don't have a tool to figure out dif(x*x, 0.5) , but if we can do some reverse Taylor series expansion, I mean, if we can express polynomials with only trigonometric functions, then we can take all the advantages of trigonometric functions and the new trick we just got.
+<br/>Fow now, we don't have a tool to figure out the partial differential for either x or y in dif(x*y, 0.123), but if we can do some reverse Taylor series expansion, I mean, if we can express polynomials with only trigonometric functions, then we can take all the advantages of trigonometric functions and the new trick we just got. In my new idea, maybe exponential function is better at this, since maybe it can do partial differential easier than trigonomitric functions.
 
 I'm gonna wrap this doc up here. I don't have that much time. 
 
